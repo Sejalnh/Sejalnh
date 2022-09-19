@@ -8,18 +8,7 @@ Hi, I'm Sejal Nathu-Hari!
 	<a href="https://github.com/Sejalnh">
 		<img src="https://komarev.com/ghpvc/?username=sejalnh&label=Profile%20views&color=0e75b6&style=flat" alt="sejalnh" />
 	</a>
-	<!--<a href="https://github.com/Sejalnh">
-		<img src="https://img.shields.io/github/followers/sejalnh?label=Followers" alt="sejalnh" />
-	</a>-->
-</p>
-<!--
-<br/>
-<p align="center">
-	<a href="https://github.com/Sejalnh">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
-</p>
--->
+	
 
 <pre>
 💻 I am an aspiring Software Engineer
@@ -135,7 +124,7 @@ If you have any questions, feel free to <a href="mailto:snath014@fiu.edu">contac
 
 **<a href="https://github.com/Sejalnh"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
 
-““A ship in port is safe, but that's not what ships are built for. Sail out to sea and do new things.”
+“A ship in port is safe, but that's not what ships are built for. Sail out to sea and do new things.”
 – Grace Hopper
 
   </td>
