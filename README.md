@@ -13,10 +13,10 @@ Hi, I'm Sejal Nathu-Hari!
 <pre>
 💻 I am an aspiring Software Engineer
 📚 Studying Computer Science at Florida International University 
-📝 I have a strong interest in Artificial Intelligence
-🌱 Learning about Databases and Internet of Things 
+📝 I have a strong interest Full Stack development
+🌱 Learning C Programming and Kotlin 
 🌟 Main languages: Java, Python
-🚩 Interested in Full Stack Mobile Application development
+🚩 Interested in Back End development
 🤔 I’m currently open for: <b>An Internship</b> or a new <b>job opportunity.</b>
 </pre>
 
