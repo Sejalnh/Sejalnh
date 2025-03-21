@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Sejal N.!
+Hi, I'm Sejal N.
 	<a href="https://github.com/Sejalnh" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
@@ -11,7 +11,8 @@ Hi, I'm Sejal N.!
 	
 
 <pre>
-💻 I am a Software Engineer
+💻 I am a Software Engineer at Dell Technologies
+👨‍💻 Currently I am working on the PowerStore Serviceability Team
 📚 I have a BSc in Computer Science from Florida International University 
 🌟 Main languages: Java, Python
 </pre>
