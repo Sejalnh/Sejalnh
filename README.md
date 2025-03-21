@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Sejal Nathu-Hari!
+Hi, I'm Sejal N.!
 	<a href="https://github.com/Sejalnh" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
@@ -11,13 +11,9 @@ Hi, I'm Sejal Nathu-Hari!
 	
 
 <pre>
-💻 I am an aspiring Software Engineer
-📚 Studying Computer Science at Florida International University 
-📝 I have a strong interest in Full Stack development
-🌱 Learning C Programming and Kotlin 
+💻 I am a Software Engineer
+📚 I have a BSc in Computer Science from Florida International University 
 🌟 Main languages: Java, Python
-🚩 Interested in Back End development
-🤔 I’m currently open for: <b>An Internship</b> or a new <b>job opportunity.</b>
 </pre>
 
 <br/>
@@ -113,9 +109,6 @@ Hi, I'm Sejal Nathu-Hari!
   <tr>
   <td width="50%" valign="top">
 
-## Let's Work on Your Project Together!
-
-If you have any questions, feel free to <a href="mailto:snath014@fiu.edu">contact me through email</a>.
 
   </td>
   <td width="50%" valign="top">
