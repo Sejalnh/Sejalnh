@@ -12,7 +12,7 @@ Hi, I'm Sejal N.
 
 <pre>
 💻 I am a Software Engineer at UKG and previously at Dell Technologies
-👨‍💻 Currently I am working on the People Faric Eventing Team
+👨‍💻 Currently I am working on the People Fabric Eventing Team
 📚 I have a BSc in Computer Science from Florida International University 
 🌟 Main languages: Java, Python
 </pre>
@@ -22,7 +22,6 @@ Hi, I'm Sejal N.
 ## Connect with me
 
 <p align="left">
-	<a href="mailto:sejalnh@gmail.com"><img img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/sejalnathuhari/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
